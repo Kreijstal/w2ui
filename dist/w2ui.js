@@ -1,14 +1,9 @@
-/* w2ui 2.0.x (nightly) (10/1/2022, 1:14:15 PM) (c) http://w2ui.com, vitmalina@gmail.com */
+/* w2ui 2.0.x (nightly) (10/10/2022, 4:33:16 PM) (c) http://w2ui.com, vitmalina@gmail.com */
 /**
  * Part of w2ui 2.0 library
  *  - Dependencies: w2utils
- *  - there is a doc file ../details/w2base.html
  *  - on/off/trigger methods id not showing in help
  *  - refactored with event object
- *  - added "awai event.complete" syntax
- *
- * 2.0 Updates
- *  - on(), off() - can have events separated by comma or space
  */
 
 class w2event {
